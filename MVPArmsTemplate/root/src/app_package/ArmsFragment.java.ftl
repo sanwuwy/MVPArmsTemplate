@@ -93,7 +93,7 @@ public class ${pageName}Fragment extends BaseFragment<${pageName}Presenter> impl
     }
 
     @Override
-    public void showLoading() {
+    public void showLoading(String message) {
 
     }
 

@@ -43,7 +43,7 @@ public class ${pageName}Activity extends BaseActivity<${pageName}Presenter> impl
     }
 
     @Override
-    public void showLoading() {
+    public void showLoading(String message) {
 
     }
 
